@@ -1,8 +1,0 @@
-function factorialize(num) {
-  let mun=1;
-  for(let i = 1; i<=num; i++){
-    mun*=i;  
-  }
-return mun;
-}
-factorialize(5);
